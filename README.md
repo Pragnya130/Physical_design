@@ -1,0 +1,7 @@
+--- At Goolge Colab 
+--- Install or Run OpenLane 
+--- open Files - spm.v
+--- Then spm.nl.v
+--- Then open EDA Playground to SYNTHESIS
+--- Write the code
+--- Run the code at Tools and Simulators
